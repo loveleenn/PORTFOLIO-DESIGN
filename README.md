@@ -31,11 +31,4 @@ Each project typically follows these stages:
 - **User Testing**: Maze, Lookback, Google Forms  
 - **Collaboration**: Notion, Trello, Miro  
 
-### 📫 Let's Connect
 
-If you're a designer, developer, recruiter, or just curious—I'd love to hear from you!  
-- 🌐 [yourportfolio.com](https://yourportfolio.com)  
-- ✉️ [yourname@email.com](mailto:yourname@email.com)  
-- 💼 [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-
----
